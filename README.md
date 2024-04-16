@@ -3,7 +3,7 @@
 - 🗣️ French / English
 - 🛠️ Java / Python / PHP / SQL / Bash
 - 🌱 Currently learning OCaml, GML and GDScript
-- 💻 Work on Spigot / GameMaker / Godot
+- 💻 Work on GameMaker / Godot
 - 📫 How to reach me:
    - Discord : frata23
    - Frata23@outlook.com
