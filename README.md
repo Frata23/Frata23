@@ -1,4 +1,4 @@
-### Salut, moi c'est Frata 👋
+### Salut, moi c'est Mattéo 👋
 - 📖 Etudiant en troisième année d'Informatique (MIAGE) à l'université d'Orléans, France.
 - 🗣️ Français / Anglais
 - 🛠️ Java / Python / PHP / SQL / *JS* / HTML / CSS / Bash / *OCaml*
@@ -7,7 +7,7 @@
    - Discord : frata23
    - Frata23@outlook.com
 
-### Hi, I'm Frata 👋
+### Hi, I'm Mattéo 👋
 - 📖 Third year student in Computer science (MIAGE) at university of Orléans, France.
 - 🗣️ French / English
 - 🛠️ Java / Python / PHP / SQL / *JS* / HTML / CSS / Bash / *OCaml*
