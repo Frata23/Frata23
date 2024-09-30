@@ -5,7 +5,7 @@
 - 🌱 Actuellement en train de faire des sites web avec Symphony et Angular
 - 📫 Comment me contacter :
    - Discord : frata23
-   - Frata23@outlook.com
+   - matteo.paillusson@outlook.fr
 
 ### Hi, I'm Mattéo 👋
 - 📖 Third year student in Computer science (MIAGE) at university of Orléans, France.
@@ -14,4 +14,4 @@
 - 🌱 Currently making websites with Symphony and Angular
 - 📫 How to reach me:
    - Discord : frata23
-   - Frata23@outlook.com
+   - matteo.paillusson@outlook.fr
